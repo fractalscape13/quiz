@@ -18,9 +18,9 @@ button  {
   margin-right: 25%;
 }
 
-.container {
+/* .container {
   display: none;
-}
+} */
 
 .output {
   display: none;
@@ -46,4 +46,20 @@ h2  {
 h3 {
   font-size: 20px;
   color: sienna;
+}
+
+#q1  {
+  display: none;
+}
+#q2 {
+  display: none;
+}
+#q3 {
+  display: none;
+}
+#q4 {
+  display: none;
+}
+#q5 {
+  display: none;
 }
