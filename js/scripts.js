@@ -30,7 +30,7 @@ $(document).ready(function() {
    var a5 = parseInt($("input:radio[name=fifthQuestion]:checked").val());
    var result = a1 + a2 + a3 + a4 + a5;
    $("#q5").slideToggle();
-   $(".output").slideToggle();
+   $(".output").fadeToggle();
    randomFunction(result);
   });
 });

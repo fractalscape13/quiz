@@ -1,9 +1,10 @@
 body {
-  background-image: url(../img/wavy.jpg);
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
   font-family: monospace;
+  background-color: rgba(255, 255, 255, .6);
+  background-blend-mode: lighten;
 }
 
 button  {
@@ -14,8 +15,8 @@ button  {
 .well {
   background-color: rgba(255, 255, 255, 0.4);
   border-radius: 10px;
-  margin-left: 25%;
-  margin-right: 25%;
+  margin-left: 28%;
+  margin-right: 28%;
 }
 
 /* .container {
@@ -46,6 +47,12 @@ h2  {
 h3 {
   font-size: 20px;
   color: sienna;
+}
+
+h4 {
+  margin-top: 20px;
+  margin-bottom: 50px;
+  font-style: oblique;
 }
 
 #q1  {
