@@ -1,0 +1,49 @@
+body {
+  background-image: url(../img/wavy.jpg);
+  text-align: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: monospace;
+}
+
+button  {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.well {
+  background-color: rgba(255, 255, 255, 0.4);
+  border-radius: 10px;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.container {
+  display: none;
+}
+
+.output {
+  display: none;
+}
+
+.emptyName {
+  display: none;
+}
+
+h1 {
+  font-size: 40px;
+  color: darkblue;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+h2  {
+  font-size: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 20px;
+  color: sienna;
+}
