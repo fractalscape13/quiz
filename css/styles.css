@@ -13,7 +13,7 @@ button  {
 }
 
 .well {
-  background-color: rgba(255, 255, 255, 0.4);
+  background-color: rgba(255, 255, 255, 0.6);
   border-radius: 10px;
   margin-left: 28%;
   margin-right: 28%;
@@ -47,6 +47,7 @@ h2  {
 h3 {
   font-size: 20px;
   color: sienna;
+  font-weight: bold;
 }
 
 h4 {
@@ -68,5 +69,17 @@ h4 {
   display: none;
 }
 #q5 {
+  display: none;
+}
+
+.resultA {
+  display: none;
+}
+
+.resultB {
+  display: none;
+}
+
+.resultC {
   display: none;
 }

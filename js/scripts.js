@@ -35,9 +35,12 @@ $(document).ready(function() {
   });
 });
 
-// function  randomFunction(result)  {
-//    if (result >= 3) {
-//     $(".resultA").show();
-//   } else {
-//     $(".resultB").show();
-//   }
+function  randomFunction(result)  {
+   if (result >= 4) {
+    $(".resultA").show();
+  } else if (result === 3 || result === 2){
+    $(".resultB").show();
+  } else {
+    $(".resultC").show();
+  }
+}
