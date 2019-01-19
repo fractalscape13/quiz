@@ -19,10 +19,6 @@ button  {
   margin-right: 28%;
 }
 
-/* .container {
-  display: none;
-} */
-
 .output {
   display: none;
 }
@@ -40,7 +36,7 @@ h1 {
 
 h2  {
   font-size: 30px;
-  margin-top: 20px;
+  margin-top: 60px;
   margin-bottom: 20px;
 }
 
@@ -58,18 +54,23 @@ h4 {
 
 #q1  {
   display: none;
+  margin-top: 80px;
 }
 #q2 {
   display: none;
+  margin-top: 80px;
 }
 #q3 {
   display: none;
+  margin-top: 80px;
 }
 #q4 {
   display: none;
+  margin-top: 80px;
 }
 #q5 {
   display: none;
+  margin-top: 80px;
 }
 
 .resultA {
